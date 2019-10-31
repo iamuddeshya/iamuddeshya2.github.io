@@ -1,0 +1,18 @@
+
+//$(document).on("mouseup", function() {
+//    
+//    var msg = new SpeechSynthesisUtterance(getSelectionText());
+//  window.speechSynthesis.speak(msg);
+//});
+
+
+//function speakNow(selectedText){
+//    
+//window.speechSynthesis.speak(selectedText);
+//}
+//$("a").on("mousedown", function(){
+//    
+//    var text = this.href;
+//    var msg = new SpeechSynthesisUtterance(text);
+//  window.speechSynthesis.speak(msg);
+//});

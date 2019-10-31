@@ -16,9 +16,33 @@ body {
   }
 }
 
+.body2{ 
+    
+    cursor: url("assets/bigpointer.png"), auto;
+ 
+}
+
+.button2{
+    cursor: url("assets/bigpointer.png"), auto;
+}
+
 /* The only bit you need */
 .highcontrast {
   background-color: black;
   color: yellow;
   a, a:visited { color: orange;  }
+}
+
+.highlight {
+    background-color: #fff2ac;
+    color: black;
+}
+
+.buttonpress {
+    background-color: black;
+    color: white;
+}
+
+.smalltext {
+    font-size: 12px;
 }
